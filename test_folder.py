@@ -1,4 +1,3 @@
-# test 안 폴더 수
 import os
 
 test_path = 'Test'

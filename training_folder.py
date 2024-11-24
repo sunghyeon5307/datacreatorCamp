@@ -1,4 +1,3 @@
-# training 안 폴더 수
 import os
 
 training_path = 'Training'
